@@ -1,0 +1,6 @@
+{
+  "features": ["perm_contacts", "perm_sms", "perm_usage_stats", "bg_net_conn", "launcher_hidden", "install_source_unknown"],
+  "weights": [1.2, 1.1, 1.5, 0.8, 1.7, 1.0],
+  "bias": -1.0,
+  "threshold": 0.6
+}
